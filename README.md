@@ -1,4 +1,4 @@
-### Olá! Aqui é a Izabela Anjos
+<!-- ### Olá! Aqui é a Izabela Anjos
 
 - 🎓 Atualmente estou cursando Engenharia de Software 
 - 💻Conhecimento intermediário em linguagem C 
@@ -11,3 +11,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabelaanjos&layout=compact&langs_count=7&theme=dark"/>
   
 </div>
+-->
